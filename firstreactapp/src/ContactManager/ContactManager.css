@@ -1,0 +1,28 @@
+/* body{
+    background-color: rgb(202, 223, 171);
+} */
+.col{
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+}
+.container{
+    padding: 10px;
+}
+.card{
+    text-shadow: 3px 3px 2px rgb(92, 187, 239) ;
+}
+.card {
+     background-color: yellowgreen;
+}
+.card:hover {
+    /* background-color: aqua; */
+    /* box-shadow: 20px; */
+    cursor: pointer;
+    transition: all 0.3s ease;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    z-index: 2;
+    box-shadow: 0px 0px 40px 2px cyan;
+} 

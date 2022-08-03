@@ -1,0 +1,21 @@
+ img {
+    width: 100%;
+    height: 80%;
+    object-fit: contain;
+  } 
+  h1,h3{
+    text-align: center;
+    font-family: cursive;
+    color: midnightblue;
+
+  }
+  p{
+    text-align: center;
+    color: steelblue;
+  }
+  .Main{
+    background-color: blanchedalmond;
+  }
+  b{
+    color: darkgreen;
+  }
